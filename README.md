@@ -1,11 +1,9 @@
 ![header](https://github.com/DougsSc/DougsSc/assets/47679368/6a33f01f-1b7b-43fc-9d4a-0004fe68de9c)
 
-Sou um profissional dinâmico com uma sólida experiência como arquiteto de software e desenvolvedor especializado em aplicações móveis. Minha expertise abrange o desenvolvimento de soluções para Web, Android e iOS, utilizando tecnologias como Java, Javascript e principalmente Flutter.
+I am a Software Developer with a degree in Computer Engineering and a postgraduate degree in Software Architecture, with over 6 years of experience dedicated to mobile development. My journey includes specialization in the creation and improvement of solutions for multiple sectors, including primarily e-commerce, urban mobility and corporate management.
 
-Ao longo da minha carreira, destaquei-me na concepção e implementação dos mais diversos e desafiadores projetos. Minha abordagem centrada na excelência técnica e compromisso com a inovação contínua resultaram em entregas de alta qualidade.
+I have a solid knowledge of the Flutter framework and the Dart language, as well as experience in Java and Swift, which allows me to perform high-quality native implementations for iOS and Android. My knowledge covers state management using Bloc pattern, Provider, ChangeNotifier, ValueNotifier and MobX, as well as Design Systems, using tools like Figma and XD. I am familiar with Firebase and apply CI/CD methodologies daily, using tools such as Git, Jenkins, and Azure DevOps, ensuring the continuous and efficient delivery of solutions.
 
-Além disso, atuei de forma proeminente no suporte técnico ao cliente, assegurando a atualização contínua de software e proporcionando um atendimento eficiente aos chamados. Minha capacidade de diagnosticar e resolver problemas rapidamente contribuiu para uma experiência positiva dos clientes e para a manutenção de um ambiente de software estável e funcional.
+My approach involves not only the application of programming techniques but also a solid understanding of design concepts such as Clean Architecture, MVC, MVVM, and coding practices like SOLID, TDD and Design Patterns. I value collaboration in agile environments, where I actively participate in rituals that apply the Scrum and Kanban methodologies.
 
-Adicionalmente, atuo como freelancer, focando em projetos baseados em Flutter, iOS e Android, incluindo a publicação e gestão de aplicativos. Esta experiência reflete meu compromisso com a inovação e minha capacidade de oferecer soluções de alta qualidade em diferentes contextos profissionais, além de comprovar minha paixão pela área da programação.
-
-Em resumo, sou um profissional versátil, orientado para resultados, que se destaca tanto na arquitetura de software quanto no desenvolvimento de soluções móveis, trazendo inovação e eficiência para cada desafio que enfrento.
+I am a person who learns very easily and adapts to any scenario, and I am always seeking new challenges that allow me to grow professionally. I believe that technology has the power to transform the world and I am eager to contribute to projects that make a difference.
